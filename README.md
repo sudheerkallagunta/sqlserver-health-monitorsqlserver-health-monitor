@@ -1,1 +1,1 @@
-# sqlserver-health-monitorsqlserver-health-monitor
+sqlserver-health-monitor
